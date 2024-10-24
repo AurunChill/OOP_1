@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+
 def _is_number(value) -> bool:
     """
     Checks if the given value can be converted to a float.
